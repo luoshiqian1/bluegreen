@@ -9,6 +9,8 @@ function start(response) {
     var body = '<html>'+
         '<head>'+
         '<meta http-equiv="Content-Type" '+
+        '<head>'+
+        '<body>This is version 1'+
         'content="text/html; charset=UTF-8" />'+
         '</head>'+
         '<body> version 2'+
